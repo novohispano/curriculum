@@ -44,7 +44,7 @@ Each group's code and production URL are listed below in order:
 #### Student Lab
 
 * Built by: Jorge Tellez
-* Production Site:
+* Production Site: http://192.241.205.232:3000/
 * Source Code: http://github.com/novohispano/student_lab
 
 #### Blair & Josh's Project
